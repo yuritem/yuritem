@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi there 👋 I'm Yuri :shipit:
 
-<!--
-**yuritem/yuritem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🇮🇱 I live in Israel
+- 🐍 I love Python & data analysis
+- 💻 I’m currently working on [Shekels](https://github.com/yuritem/shekels)
+- 📖 I’m currently learning PostgreSQL, Airflow, and Docker
+- ❤️‍🔥 Passionate about data viz
+- 🤝 Open to collaborate on exciting projects 🙂
+- 💬 How to reach me: [@araneiu](https://t.me/araneiu) (telegram)
+- 🎓 Ex-[Researcher](https://orcid.org/0000-0003-4813-8378) in astrophysics
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Download my CV [here](https://github.com/yuritem/yuritem/raw/main/Yuri_Temiraev_CV.pdf).
