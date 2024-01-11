@@ -3,7 +3,7 @@
 - 🇮🇱 I live in Israel
 - 🐍 I love Python & data analysis
 - 💻 I’m currently working on [Shekels](https://github.com/yuritem/shekels)
-- 📖 I’m currently learning PostgreSQL, Airflow, and Docker
+- 📖 I’m currently learning Airflow, and Docker
 - ❤️‍🔥 Passionate about data viz
 - 🤝 Open to collaborate on exciting projects 🙂
 - 💬 How to reach me: [@araneiu](https://t.me/araneiu) (telegram)
