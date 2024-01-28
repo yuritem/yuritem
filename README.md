@@ -5,7 +5,7 @@
 - 💻 Currently working on [Shekels](https://github.com/yuritem/shekels)
 - 📖 Currently learning Airflow
 - ❤️‍🔥 Passionate about data viz
-- 🤝 Open to collaborate on awesome stuff 🙂
+- 🤝 Open to collaborate on stuff
 - 💬 Contact me: [@araneiu](https://t.me/araneiu) (telegram)
 - 🎓 I'm a [researcher](https://orcid.org/0000-0003-4813-8378) in astrophysics
 
