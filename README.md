@@ -3,7 +3,7 @@
 - 🇮🇱 I live in Israel
 - 🐍 I love Python & data analysis
 - 💻 Currently working on [Shekels](https://github.com/yuritem/shekels)
-- 📖 Currently learning Airflow
+- 📖 Currently reading [Clean Architecture](https://github.com/GunterMueller/Books-3/blob/master/Clean%20Architecture%20A%20Craftsman%20Guide%20to%20Software%20Structure%20and%20Design.pdf)
 - ❤️‍🔥 Passionate about data viz
 - 🤝 Open to collaborate on stuff
 - 💬 Contact me: [@araneiu](https://t.me/araneiu) (telegram)
