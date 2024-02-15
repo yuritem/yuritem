@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Yuri :shipit:
+### Hi there 👋 I'm Yuri 🦓
 
 - 🇮🇱 I live in Israel
 - 🐍 I love Python & data analysis
