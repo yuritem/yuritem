@@ -7,7 +7,6 @@
 - 🌌 BSc in Astrophysics
 - 🧬 MSc in Bioinformatics
 - 🎓 View some of my [papers](https://orcid.org/0000-0003-4813-8378)
-- 🙂 Open to collaborate on stuff
 - 💬 Contact me: [@araneiu](https://t.me/araneiu) (telegram)
 
 Download my CV [here](https://github.com/yuritem/yuritem/raw/main/Yuri_Temiraev_CV.pdf).
