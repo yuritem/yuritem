@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Yuri 🦓
 
-- 🇷🇺 I live in Russua
+- 🇷🇺 I live in Russia
 - 🐍 I love Python & data analysis
 - 📖 Currently reading [Clean Architecture](https://github.com/GunterMueller/Books-3/blob/master/Clean%20Architecture%20A%20Craftsman%20Guide%20to%20Software%20Structure%20and%20Design.pdf)
 - 🌌 BSc in Astrophysics
